@@ -1,17 +1,14 @@
-# Zalith Launcher 2
-![Downloads](https://img.shields.io/github/downloads/ZalithLauncher/ZalithLauncher2/total)
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors)](https://afdian.com/a/MovTery)
+# NexCraft
+*面向 Android 的 Minecraft Java 版启动器*
 
 [English](README_EN_US.md) | [繁體中文](README_ZH_TW.md)
 
 
 > [!IMPORTANT]
-> 该项目与 [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) 属于两个完全不同的项目  
+> **NexCraft 是 [Zalith Launcher 2](https://github.com/ZalithLauncher/ZalithLauncher2)（作者 MovTery 及贡献者）的非官方修改版**，与原作者无任何关联，也未获其认可。原始版权声明已保留（GPL-3.0）。
 
-**Zalith Launcher 2** 是一个全新设计、面向 **Android 设备** 的 [Minecraft: Java Edition](https://www.minecraft.net/) 启动器。项目使用 [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher/tree/v3_openjdk/app_pojavlauncher/src/main/jni) 作为启动核心，采用 **Jetpack Compose** 与 **Material Design 3** 构建现代化 UI 体验。  
-我们目前正在搭建自己的官方网站 [zalithlauncher.cn](https://zalithlauncher.cn)  
-此外，我们已注意到有第三方使用“Zalith Launcher”名称搭建了一个看似官方的网站。请注意：**该网站并非我们创建**，其通过冒用名义并植入广告牟利。我们对此类行为**不参与、不认可、不信任**。  
-请务必提高警惕，**谨防个人隐私信息泄露**！
+**NexCraft** 是面向 **Android 设备** 的 [Minecraft: Java Edition](https://www.minecraft.net/) 启动器，基于 Zalith Launcher 2 修改而来。其使用 [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher/tree/v3_openjdk/app_pojavlauncher/src/main/jni) 作为启动核心，采用 **Jetpack Compose** 与 **Material Design 3** 构建现代化 UI 体验。  
+请仅从本仓库的 Releases 安装 NexCraft，切勿在仿冒网站输入账号信息。
 
 
 ## 🌐 语言与翻译支持
